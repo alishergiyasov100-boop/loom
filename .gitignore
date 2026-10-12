@@ -1,0 +1,7 @@
+data/
+out/
+frames/
+vec/
+*.log
+__pycache__/
+*.mp4
