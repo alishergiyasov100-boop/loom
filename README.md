@@ -1,4 +1,4 @@
-# Ink
+# Mugen
 
 Модель 2D-анимации, которая работает штрихами, а не пикселями.
 
@@ -11,7 +11,7 @@
 Новый ноутбук, Accelerator: **None**, Internet: **On**, одна ячейка:
 
 ```python
-!curl -sL https://raw.githubusercontent.com/alishergiyasov100-boop/loom/master/loom_harvest_kaggle.py -o ink.py && python ink.py
+!curl -sL https://raw.githubusercontent.com/alishergiyasov100-boop/mugen/master/mugen_harvest_kaggle.py -o ink.py && python ink.py
 ```
 
 Результат — `/kaggle/working/clips/*.npy`, траектории штрихов.
